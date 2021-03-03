@@ -7,14 +7,15 @@ public class Sort {
         s.initialize();
         System.out.println("Elements Before Sorting");
         s.displayElements();
-        System.out.println("---------------------------------");
+        
         
         s.sort1();
         System.out.println("Elements After Sorting by sort1 function:");
         s.displayElements();
         System.out.println("---------------------------------");
+        System.out.print("github");
         
-        s.sort2();
+        s.sort3();
         System.out.println("Elements After Sorting by sort2 function:");
         s.displayElements();
         System.out.println("---------------------------------");
